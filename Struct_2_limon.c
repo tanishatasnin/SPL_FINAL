@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
-
-@tanishatasnin
-limon-291
-/
-File_codes
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-File_codes/File/file.c
-@limon-291
-limon-291 Update file.c
-Latest commit 53061a8 yesterday
- History
- 1 contributor
-88 lines (67 sloc)  1.73 KB
-
-
 
 #include<stdio.h>
 #include<stdlib.h>
